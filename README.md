@@ -1,3 +1,4 @@
+
 <!DOCTYPEhtml>
 
 <h1>Sobre o Starbobby </h1>
@@ -12,3 +13,15 @@ Quando a loja foi aberta a gente só conseguia pensar em uma forma de manter a m
 
 
 <tag>
+
+  
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8 "
+    <title> NOSSOS PRODUTOS - Starbobby </title>
+    <link rel="stylesheet" href="STARBOBBYPRO.html">
+  </head>
+  <body>
+  </body>
+</html>
