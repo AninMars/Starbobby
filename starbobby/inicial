@@ -27,11 +27,12 @@ Quando a loja foi aberta a gente só conseguia pensar em uma forma de manter a m
 
 	</body>
   
-  
+	<nav>
+		<ul>
 <li><a href=”Produtos.html”>Produtos</a></li>
 <li><a href=”contato.html”>Contato</a></li>
-
-  
+	</nav>
+		</ul>
 </html>		
   
   
